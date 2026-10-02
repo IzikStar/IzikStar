@@ -9,7 +9,7 @@ I'm also a musician and a writer, which is probably why I care about how things 
 | Project | What it is | Stack |
 |---|---|---|
 | [Chess engine](https://github.com/IzikStar/izik-star-chess-engine) | Chess game with a from-scratch bitboard engine and alpha-beta search, refactored in test-first phases | Java, Swing, Maven, JUnit |
-| [GoldenToasts](https://github.com/IzikStar/golden-toasts) | Full-stack app for a team's toast tradition: scheduling, invites, admin approval and a "criminals" board, with JWT auth and role-based guards | NestJS, React, PostgreSQL, Nx |
+| [GoldenToasts](https://github.com/IzikStar/golden-toasts) | Full-stack app for a team's toast tradition: scheduling, invites, admin approval and a "criminals" board, with JWT auth, role-based guards, 122 unit and e2e tests and CI | NestJS, React, PostgreSQL, Nx, Jest |
 | [LinkedIn agent MCP](https://github.com/IzikStar/linkedin-agent-mcp) *(experimental)* | Human-in-the-loop job-search agent exposed as an MCP server, with out-of-band confirmation for every action and 199 tests | TypeScript, MCP, Playwright, SQLite |
 | [Accellent Collect](https://collect.accellent.org) *(live; code private)* | Tool for crowdsourcing and rating accented speech to train an AI pronunciation coach | FastAPI, React, TypeScript |
 | [MasterMind](https://github.com/IzikStar/MasterMindTS) ([play](https://izikstar.github.io/MasterMindTS/)) | Mastermind game with a built-in solver (Knuth's minimax, any code in at most 5 guesses), hints and a mode where the computer cracks your code | TypeScript, Vite, Vitest |
