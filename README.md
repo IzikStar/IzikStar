@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Itschak 👋
 
-<!--
-**IzikStar/IzikStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (TypeScript, React, NestJS, Java, PostgreSQL). For the last two years I've built production systems in the Israeli Air Force: authentication across an 8-service architecture, algorithm redesigns, and a regression framework that validates ~120,000 engineering cases. Available from December 2026.
 
-Here are some ideas to get you started:
+I'm also a musician and a writer, which is probably why I care about how things feel to the person using them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected projects**
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Chess engine](https://github.com/IzikStar/izik-star-chess-engine) | Chess game with a from-scratch bitboard engine and alpha-beta search, refactored in test-first phases | Java, Swing, Maven, JUnit |
+| LinkedIn agent MCP *(private, code on request)* | Human-in-the-loop job-search agent exposed as an MCP server, with out-of-band confirmation for every action and 199 tests | TypeScript, MCP, Playwright, SQLite |
+| [Accellent Collect](https://collect.accellent.org) *(live; code private)* | Tool for crowdsourcing and rating accented speech to train an AI pronunciation coach | FastAPI, React, TypeScript |
+| [Solitaire](https://github.com/IzikStar/solitaire_0.1) | Klondike solitaire with undo/redo history and animations (2024, with a classmate) | React, Vite, GSAP |
+
+**Stack**
+TypeScript · JavaScript · Java · SQL · React · Redux Toolkit · NestJS · Node.js · Spring Boot · PostgreSQL · Redis · JWT / OAuth 2.0 / SSO / RBAC · Docker · OpenShift
+
+**Contact**
+[LinkedIn](https://www.linkedin.com/in/itschak-shteren-0b7a59313) · itschakme@gmail.com
