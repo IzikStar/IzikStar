@@ -10,7 +10,7 @@ I'm also a musician and a writer, which is probably why I care about how things 
 |---|---|---|
 | [Chess engine](https://github.com/IzikStar/izik-star-chess-engine) | Chess game with a from-scratch bitboard engine and alpha-beta search, refactored in test-first phases | Java, Swing, Maven, JUnit |
 | [GoldenToasts](https://github.com/IzikStar/golden-toasts) | Full-stack app for a team's toast tradition: scheduling, invites, admin approval and a "criminals" board, with JWT auth and role-based guards | NestJS, React, PostgreSQL, Nx |
-| LinkedIn agent MCP *(private, code on request)* | Human-in-the-loop job-search agent exposed as an MCP server, with out-of-band confirmation for every action and 199 tests | TypeScript, MCP, Playwright, SQLite |
+| [LinkedIn agent MCP](https://github.com/IzikStar/linkedin-agent-mcp) *(experimental)* | Human-in-the-loop job-search agent exposed as an MCP server, with out-of-band confirmation for every action and 199 tests | TypeScript, MCP, Playwright, SQLite |
 | [Accellent Collect](https://collect.accellent.org) *(live; code private)* | Tool for crowdsourcing and rating accented speech to train an AI pronunciation coach | FastAPI, React, TypeScript |
 | [Solitaire](https://github.com/IzikStar/solitaire_0.1) | Klondike solitaire with undo/redo history and animations (2024, with a classmate) | React, Vite, GSAP |
 
